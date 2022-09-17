@@ -1,3 +1,5 @@
+<!-- This is a template to test mods to the README. Once satisfied, can be copied over to the profile dir to be deployed publicly. -->
+
 # Bn Bioinformatics Handelsbolag
 
 We are a consulting company in bioinformatics, established 2021, specialised in:
