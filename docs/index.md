@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+# {{ site.title}}
+
+{{ site.description}}
+
+---
+
+Contact: 
+    * email: {{ site.email }}
+    * github: [{{ site.github_username }}](https://github.com/{{ site.github_username }})
