@@ -15,13 +15,13 @@ layout: home
 
 ## Who we are
 
-**Bastian Schiffthaler**
+**[Bastian Schiffthaler](https://github.com/bschiffthaler)**
 
 >Molecular Biologist by training, highly skilled computer and data scientist by trade.
 
 >Currently, a senior data scientist working in drug development in the Pharma industry.
 
-**Nicolas Delhomme**
+**[Nicolas Delhomme](https://github.com/{{ site.github_username }})**
 
 >Geneticist by training, data scientist in practice, interested in gene regulation in a systems biology context, expert in expression profiling and other high throughput sequencing techs, whether bulk or single-cell.
 
@@ -34,4 +34,4 @@ layout: home
 ## Contact: 
 
 * email: {{ site.email }}
-* github: [{{ site.github_username }}](https://github.com/{{ site.github_username }})
+* github: [{{ site.github_username }}](https://github.com/{{ site.github_username }}) and [bschiffthaler](https://github.com/bschiffthaler)
