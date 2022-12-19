@@ -5,11 +5,11 @@
 layout: default
 ---
 
-# {{ site.title}}
+# {{ site.title }}
 
 ## What we are
 
-{{ site.description}}
+{{ site.description }}
 
 ---
 
